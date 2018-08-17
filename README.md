@@ -1,4 +1,4 @@
-docs
+#docs
 
 (https://theboywhoprocrastinates.github.io/docs/day.html)
 (https://theboywhoprocrastinates.github.io/docs/week.html)
