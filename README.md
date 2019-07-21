@@ -7,3 +7,5 @@
 (https://theboywhoprocrastinates.github.io/docs/longterm.html)
 
 (https://theboywhoprocrastinates.github.io/docs/fees.html)
+
+(https://theboywhoprocrastinates.github.io/docs/inflation.html)
