@@ -15,3 +15,5 @@
 (https://theboywhoprocrastinates.github.io/docs/transport.html)
 
 (https://theboywhoprocrastinates.github.io/docs/healthcare.html)
+
+(https://theboywhoprocrastinates.github.io/docs/core_inflation.html)
